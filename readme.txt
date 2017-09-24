@@ -13,4 +13,4 @@ have switched to master.
 
 modify to fix  confict
 
-remote is already modified
+git pull,but remote and local is confict,so modify this to fix the confit
