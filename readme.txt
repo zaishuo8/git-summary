@@ -12,3 +12,5 @@ switch to devBranch,next content is on devBranch.
 have switched to master.
 
 modify to fix  confict
+
+remote modified, local is not !
